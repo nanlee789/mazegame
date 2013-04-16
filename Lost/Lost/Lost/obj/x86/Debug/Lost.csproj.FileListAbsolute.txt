@@ -1,0 +1,16 @@
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Lost.exe
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Lost.pdb
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Lost.csprojResolveAssemblyReference.cache
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Lost.exe
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Lost.pdb
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Content\block.xnb
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Content\block.xnb
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Lost.exe
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Lost.pdb
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Lost.exe
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\obj\x86\Debug\Lost.pdb
+F:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Content\jimmy.xnb
+E:\Game Dev\Homework\Final Project\Lost\Lost\Lost\bin\x86\Debug\Content\jimmy.xnb

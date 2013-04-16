@@ -1,0 +1,2 @@
+F:\Game Dev\Homework\Final Project\Lost\Lost\LostContent\obj\x86\Debug\LostContent.contentprojResolveAssemblyReference.cache
+E:\Game Dev\Homework\Final Project\Lost\Lost\LostContent\obj\x86\Debug\ResolveAssemblyReference.cache
